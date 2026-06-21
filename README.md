@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Affan</h1>
+<h1 align="center">Hi, I'm Affan</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🚀 Focused on building automation tools, backend systems, and practical software solutions.
+  Building automation tools and backend systems with real‑world impact.
 </p>
 
 ---
