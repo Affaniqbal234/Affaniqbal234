@@ -1,47 +1,49 @@
-<h1 align="center">Hi, I'm Affan</h1>
+# Affan Iqbal
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+%26+Backend+Engineer;Web+Application+Builder;Cybersecurity+Enthusiast;Turning+Ideas+into+Code" alt="Typing SVG" />
-  </a>
-</p>
+**BSCS student | Python backend & software engineering**
 
-<p align="center">
-  Building automation tools and backend systems with real‑world impact.
-</p>
+I build backend and data-driven applications with Python, FastAPI, PostgreSQL, REST APIs, and automated testing. I’m focused on strengthening real engineering skills and building evidence for software engineering internships and junior developer roles.
 
----
+## Featured Projects
 
-## 🛠️ Tech Stack
+### [ApplyVault](https://github.com/Affaniqbal234/applyvault)
+Multi-user job application tracker built with **FastAPI, PostgreSQL, SQLAlchemy, JWT authentication, JavaScript, and pytest**.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+- Authenticated REST API with per-user authorization
+- Job application CRUD, search/filtering, and dashboard statistics
+- Integration tests for authentication and access-control behavior
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### [Geo Country Explorer](https://github.com/Affaniqbal234/geo-country-explorer)
+Interactive geography application built with **JavaScript, Leaflet, GeoJSON, OpenStreetMap, and REST Countries data**.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Country search, filters, map interaction, and geographic data visualization
+- CSV export and PWA/offline behavior
+- [Live demo](https://geo-country-explorer-livid.vercel.app/)
 
----
+### [Crypto Price Alert](https://github.com/Affaniqbal234/crypto-price-alert)
+Python terminal crypto tracker using the **Binance API** with configurable refreshes and target-price alerts.
 
-## 📊 GitHub Stats
+- Real-time market data and 24-hour price changes
+- Persistent alert tracking
+- Automated tests, including property-based testing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Affaniqbal234&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
-</p>
+## Technical Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaniqbal234&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**Working with:** Python, FastAPI, PostgreSQL, SQL, SQLAlchemy, REST APIs, JWT, pytest, Git/GitHub, JavaScript
 
+**Currently strengthening:** deeper SQL/PostgreSQL design and querying, backend architecture, deployment, Linux/CLI, Docker, and production-oriented development workflows.
 
+## Open Source
+
+- Merged documentation contribution to [`axions-org/in_app_update_flutter`](https://github.com/axions-org/in_app_update_flutter/pull/27), improving README structure, platform guidance, comparison information, FAQ content, and project discoverability.
+
+## What I’m Working Toward
+
+- Stronger backend/database engineering depth
+- More independently demonstrated production-oriented project work
+- Meaningful open-source contributions
+- Software engineering internship readiness
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/affaniqbal234) · [GitHub](https://github.com/Affaniqbal234)
