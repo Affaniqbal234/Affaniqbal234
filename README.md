@@ -1,6 +1,6 @@
 <h1 align="center">Affan Iqbal</h1>
 
-<p align="center">Computer Science undergraduate building practical web applications, backend systems, and automation tools, with an interest in security.</p>
+<p align="center">Computer Science undergraduate building software, browser automation, and security-focused tools.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/affaniqbal234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
@@ -12,8 +12,8 @@
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
 | **[ApplyVault](https://github.com/Affaniqbal234/applyvault)** | A job application tracker with user accounts, private application records, status updates, notes, search, filters, and dashboard counts.<br><br><sub>Python · FastAPI · PostgreSQL · SQLAlchemy · JavaScript</sub> | [Live Demo](https://applyvault.vercel.app) |
+| **[Final Autofaucet Bot](https://github.com/Affaniqbal234/final-autofaucet-bot)** | Browser automation for a multi-step authenticated workflow, with persistent sessions, timing-sensitive navigation, repeated task execution, challenge handling, recovery, and anti-bot constraints.<br><br><sub>Python · Patchright · Browser Automation</sub> | — |
 | **[Geo Country Explorer](https://github.com/Affaniqbal234/geo-country-explorer)** | An interactive world map with country search, region filters, population density visualization, and CSV export.<br><br><sub>JavaScript · Leaflet · GeoJSON · HTML/CSS</sub> | [Live Demo](https://geo-country-explorer-livid.vercel.app/) |
-| **[Crypto Price Alert](https://github.com/Affaniqbal234/crypto-price-alert)** | A terminal tracker for Binance prices and 24-hour changes, with configurable refresh, a saved watchlist, and target-price alerts.<br><br><sub>Python · Rich · Binance API · pytest · Hypothesis</sub> | — |
 
 ## Technology Stack
 
@@ -31,15 +31,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-24292F?style=flat-square&logo=sqlalchemy&logoColor=F77B86)
 
-### Engineering & Testing
+### Engineering & Automation
 
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2E7D32?style=flat-square)
+![Patchright](https://img.shields.io/badge/Patchright-24292F?style=flat-square)
 ![Alembic](https://img.shields.io/badge/Alembic-475569?style=flat-square)
 
-### Platforms / Cloud
+### Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-181717?style=flat-square&logo=render&logoColor=white)
@@ -53,4 +54,4 @@
 
 ## Open Source
 
-Contributed platform guidance, package comparisons, and FAQs to [in_app_update_flutter](https://github.com/buildwithpulkit/in_app_update_flutter) through [merged documentation PR #27](https://github.com/buildwithpulkit/in_app_update_flutter/pull/27).
+Contributed documentation to [in_app_update_flutter](https://github.com/buildwithpulkit/in_app_update_flutter) through [merged PR #27](https://github.com/buildwithpulkit/in_app_update_flutter/pull/27).
